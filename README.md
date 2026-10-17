@@ -1,4 +1,4 @@
-# RAG Documentation Assistant
+# DocQuery - RAG Documentation Assistant
 
 A production-quality Retrieval-Augmented Generation pipeline built with Python, LangGraph, and ChromaDB. Every concept is modularised into its own file so you can read and understand each piece in isolation.
 
@@ -182,4 +182,4 @@ client.create_collection(
 ```
 
 No other file needs to change — `nodes.py`, `graph.py`, and the demo scripts are all unaffected.
-# DocQuery
+
